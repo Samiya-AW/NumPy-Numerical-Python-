@@ -1,1 +1,1 @@
-# NumPy-Numerical-Python-
+# NumPy Numerical Python
